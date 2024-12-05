@@ -1,5 +1,8 @@
 # Neural Signal Decoder
-Work in progres...
+Information regarding project available in `report.pdf`.
+
+This repo is still a work in progress. All results are avilable in `plots.ipynb`, but this will be updated to separate Python scripts soon.
+
 # Getting Started
 
 ### Step 1: Creating the Environment
